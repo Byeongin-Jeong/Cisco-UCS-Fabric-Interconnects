@@ -238,9 +238,9 @@ class Ucsmanger():
         return all_storage
 
 def main():
-    ip = "10.100.199.60"
+    ip = "10.10.10.10"
     user = "admin"
-    pwd = "!@345Qwert"
+    pwd = "admin"
 
     ucsfi_obj = Ucsmanger(ip, user, pwd)
     if ucsfi_obj.login() == False:
