@@ -1,13 +1,7 @@
-# ucsfi
-Cisco UCS FI Management Class
+# Cisco UCS Fabric Interconnects
+Cisco UCS Fabric Interconnects Management Class
 
-         UCS FI
-            |
-  ---------------------
-  |      |      |      |
-UCS1 - UCS2 - UCS3 - UCS4
-
-UCS is 2 type Server Blade Servers and	Rack Servers.
+UCS is 2 type Server Blade Servers and Rack Servers.
 Various data inquiry is possible through UCS fi management.
 
 
